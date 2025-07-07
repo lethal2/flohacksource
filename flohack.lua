@@ -1,4 +1,4 @@
-
+-- flohack
 	local cheatLoadingStartTick = os.clock()
 
 	local tick = tick
